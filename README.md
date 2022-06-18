@@ -11,3 +11,6 @@
 >將資料使用0.15的比例切分成：
 >>Training set：3112  
 >>Validation set：550  
+
+# DeployModel
+>使用訓練後的最佳化模型套用在Kaggle Diabetic Retinopathy Detection 2015 "https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data" 中「train」其中20張照片，看模型表現結果。
